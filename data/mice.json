@@ -1,0 +1,6338 @@
+[
+ {
+  "id": "abkoncore-a530",
+  "brand": "Abkoncore",
+  "model": "A530",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "abkoncore-a660",
+  "brand": "Abkoncore",
+  "model": "A660",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "abkoncore-a900",
+  "brand": "Abkoncore",
+  "model": "A900",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "adesso-imouse-x3",
+  "brand": "Adesso",
+  "model": "iMouse X3",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "ajazz-aj199",
+  "brand": "Ajazz",
+  "model": "AJ199",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "alienware-pro-wireless-gaming-mouse",
+  "brand": "Alienware",
+  "model": "Pro Wireless Gaming Mouse",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "aqirys-t-g-a",
+  "brand": "AQIRYS",
+  "model": "T.G.A.",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "aqirys-t-g-a-alpha",
+  "brand": "AQIRYS",
+  "model": "T.G.A. Alpha",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "aqirys-t-g-a-wired",
+  "brand": "AQIRYS",
+  "model": "T.G.A. Wired",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "arbiter-studio-akitsu",
+  "brand": "Arbiter Studio",
+  "model": "AKITSU",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "pink",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "arye-rcc-1",
+  "brand": "ARYE",
+  "model": "RCC-1",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-chakram-core",
+  "brand": "ASUS ROG",
+  "model": "Chakram Core",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-chakram-x",
+  "brand": "ASUS ROG",
+  "model": "Chakram X",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-gladius-iii",
+  "brand": "ASUS ROG",
+  "model": "Gladius III",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-gladius-iii-wireless",
+  "brand": "ASUS ROG",
+  "model": "Gladius III Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-harpe-ace-aim-lab-edition",
+  "brand": "ASUS ROG",
+  "model": "Harpe Ace Aim Lab Edition",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-harpe-ace-extreme",
+  "brand": "ASUS ROG",
+  "model": "Harpe Ace Extreme",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Optical Micro Switch",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-harpe-ace-mini",
+  "brand": "ASUS ROG",
+  "model": "Harpe Ace Mini",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Optical Micro Switch",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-harpe-ii-ace",
+  "brand": "ASUS ROG",
+  "model": "Harpe II Ace",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Optical Micro Switch",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-keris-ii-ace",
+  "brand": "ASUS ROG",
+  "model": "Keris II Ace",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-keris-ii-origin",
+  "brand": "ASUS ROG",
+  "model": "Keris II Origin",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch II",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-keris-wireless-aimpoint",
+  "brand": "ASUS ROG",
+  "model": "Keris Wireless AimPoint",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-pugio-ii",
+  "brand": "ASUS ROG",
+  "model": "Pugio II",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-spatha-x",
+  "brand": "ASUS ROG",
+  "model": "Spatha X",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": 19000
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "asus-rog-strix-carry",
+  "brand": "ASUS ROG",
+  "model": "Strix Carry",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3330",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2F-01F",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-strix-impact-ii",
+  "brand": "ASUS ROG",
+  "model": "Strix Impact II",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-strix-impact-ii-moonlight-white",
+  "brand": "ASUS ROG",
+  "model": "Strix Impact II Moonlight White",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-strix-impact-iii",
+  "brand": "ASUS ROG",
+  "model": "Strix Impact III",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3311",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "ROG",
+    "model": "Micro Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-tuf-m3",
+  "brand": "ASUS ROG",
+  "model": "TUF M3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "Kailh (red plunger)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-tuf-m3-gen-ii",
+  "brand": "ASUS ROG",
+  "model": "TUF M3 Gen II",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3318",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Gold",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-tuf-m4-air",
+  "brand": "ASUS ROG",
+  "model": "TUF M4 Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "asus-rog-tuf-m4-wireless",
+  "brand": "ASUS ROG",
+  "model": "TUF M4 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3311",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "atk-f1-extreme",
+  "brand": "ATK",
+  "model": "F1 Extreme",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Pink Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "atk-x1-pro",
+  "brand": "ATK",
+  "model": "X1 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Pink Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "atompalm-hydrogen",
+  "brand": "Atompalm",
+  "model": "Hydrogen",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2F-01F",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "attack-shark-x11",
+  "brand": "Attack Shark",
+  "model": "X11",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Pink Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cherry-xtrfy-m64-pro",
+  "brand": "CHERRY XTRFY",
+  "model": "M64 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cherry-xtrfy-m68-pro",
+  "brand": "CHERRY XTRFY",
+  "model": "M68 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm310",
+  "brand": "Cooler Master",
+  "model": "MM310",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm311",
+  "brand": "Cooler Master",
+  "model": "MM311",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm711",
+  "brand": "Cooler Master",
+  "model": "MM711",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm712",
+  "brand": "Cooler Master",
+  "model": "MM712",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "LK",
+    "model": "Optical V2",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm720",
+  "brand": "Cooler Master",
+  "model": "MM720",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "LK",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "coolermaster-mm730",
+  "brand": "Cooler Master",
+  "model": "MM730",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3389",
+   "dpi": 16000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F-Switch",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "cooler-master-mm731",
+  "brand": "Cooler Master",
+  "model": "MM731",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "LK",
+    "model": "Optical V2",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-dark-core-rgb-pro-se",
+  "brand": "Corsair",
+  "model": "Dark Core RGB Pro SE",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3392",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-darkstar-wireless",
+  "brand": "Corsair",
+  "model": "Darkstar Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-glaive-rgb-pro",
+  "brand": "Corsair",
+  "model": "Glaive RGB Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3391",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K 50M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-ironclaw-wireless",
+  "brand": "Corsair",
+  "model": "Ironclaw Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3391",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-katar-elite-wireless",
+  "brand": "Corsair",
+  "model": "Katar Elite Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-katar-pro-wireless",
+  "brand": "Corsair",
+  "model": "Katar Pro Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "Kailh",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-katar-pro-xt",
+  "brand": "Corsair",
+  "model": "Katar Pro XT",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3391",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-m55-rgb-pro",
+  "brand": "Corsair",
+  "model": "M55 RGB Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K 50M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-m65-rgb-ultra",
+  "brand": "Corsair",
+  "model": "M65 RGB Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-m65-rgb-ultra-wireless",
+  "brand": "Corsair",
+  "model": "M65 RGB Ultra Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-m65-ultra",
+  "brand": "Corsair",
+  "model": "M65 Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3391",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-m75-air",
+  "brand": "Corsair",
+  "model": "M75 Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-nightsabre-wireless",
+  "brand": "Corsair",
+  "model": "Nightsabre Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-nightsword-rgb",
+  "brand": "Corsair",
+  "model": "Nightsword RGB",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3391",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K 50M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-sabre-rgb-pro",
+  "brand": "Corsair",
+  "model": "Sabre RGB Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3392",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-sabre-v2-pro",
+  "brand": "Corsair",
+  "model": "Sabre v2 Pro",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "Corsair",
+    "model": "Mechanical",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-scimitar-elite-wireless",
+  "brand": "Corsair",
+  "model": "Scimitar Elite Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3393",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-scimitar-elite-wireless-se",
+  "brand": "Corsair",
+  "model": "Scimitar Elite Wireless SE",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "corsair-scimitar-rgb-elite",
+  "brand": "Corsair",
+  "model": "Scimitar RGB Elite",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3391",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dareu-a950",
+  "brand": "Dareu",
+  "model": "A950",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dareu-a980-pro-max",
+  "brand": "DAREU",
+  "model": "A980 Pro Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dareu-em901x",
+  "brand": "Dareu",
+  "model": "EM901X",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": 16000
+  },
+  "switches": [
+   {
+    "brand": "Dareu",
+    "model": "Mechanical Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "dark-project-me1",
+  "brand": "Dark Project",
+  "model": "ME1",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "20M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dark-project-me2",
+  "brand": "Dark Project",
+  "model": "ME2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "20M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "darmoshark-m3",
+  "brand": "Darmoshark",
+  "model": "M3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "darmoshark-m3-4k",
+  "brand": "Darmoshark",
+  "model": "M3 4K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Gold",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "darmoshark-m3s-varun",
+  "brand": "Darmoshark",
+  "model": "M3S Varun",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Gold",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "darmoshark-m5",
+  "brand": "Darmoshark",
+  "model": "M5",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "White Sword",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "delux-m800-pro",
+  "brand": "Delux",
+  "model": "M800 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (80 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Huano",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "delux-m800-ultra",
+  "brand": "DELUX",
+  "model": "M800 Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (80 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "delux-m900-pro",
+  "brand": "DELUX",
+  "model": "M900 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Huano",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm2-supreme",
+  "brand": "Dream Machines",
+  "model": "DM2 Supreme",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (20M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm4-evo",
+  "brand": "Dream Machines",
+  "model": "DM4 Evo",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm5-blink",
+  "brand": "Dream Machines",
+  "model": "DM5 Blink",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (20 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm6-holey-s",
+  "brand": "Dream Machines",
+  "model": "DM6 Holey S",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm7-switch-duo",
+  "brand": "Dream Machines",
+  "model": "DM7 Switch Duo",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm8-mini-pro",
+  "brand": "Dream Machines",
+  "model": "DM8 Mini Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "dream-machines-dm9-skill-wireless",
+  "brand": "Dream Machines",
+  "model": "DM9 Skill Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "ducky-feather",
+  "brand": "Ducky",
+  "model": "Feather",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "easysmx-bd-01",
+  "brand": "EasySMX",
+  "model": "BD-01",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-3M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-op1-8k",
+  "brand": "Endgame Gear",
+  "model": "OP1 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GX",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-op1we",
+  "brand": "Endgame Gear",
+  "model": "OP1we",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GO Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm1-white",
+  "brand": "Endgame Gear",
+  "model": "XM1 White",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K 50M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm1r",
+  "brand": "Endgame Gear",
+  "model": "XM1r",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm2-8k",
+  "brand": "Endgame Gear",
+  "model": "XM2 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GX",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm2w-4k",
+  "brand": "Endgame Gear",
+  "model": "XM2w 4K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GX",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm2w-4k-v2",
+  "brand": "Endgame Gear",
+  "model": "XM2w 4K V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GX",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-xm2we",
+  "brand": "Endgame Gear",
+  "model": "XM2we",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "endgame-gear-xm2we",
+  "brand": "Endgame Gear",
+  "model": "XM2we",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GO Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "evga-x12",
+  "brand": "EVGA",
+  "model": "X12",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "evga-x15",
+  "brand": "EVGA",
+  "model": "X15",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "LK",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "evga-x17",
+  "brand": "EVGA",
+  "model": "X17",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "evga-x20",
+  "brand": "EVGA",
+  "model": "X20",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-aria-ii",
+  "brand": "Fantech",
+  "model": "Aria II",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-aria-ii-pro",
+  "brand": "Fantech",
+  "model": "Aria II Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-aria-xd7",
+  "brand": "Fantech",
+  "model": "Aria XD7",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-helios-go-xd5",
+  "brand": "Fantech",
+  "model": "Helios Go XD5",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-helios-ii-pro",
+  "brand": "Fantech",
+  "model": "Helios II Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical Gold",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fantech-helios-xd3v2",
+  "brand": "Fantech",
+  "model": "Helios II XD3V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": 16000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "fantech-helios-xd3-v2",
+  "brand": "Fantech",
+  "model": "Helios XD3 V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "finalmouse-starlight-pro",
+  "brand": "Finalmouse",
+  "model": "Starlight Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": 19000
+  },
+  "switches": [
+   {
+    "brand": "Finalmouse",
+    "model": "Gold Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "finalmouse-starlight-12",
+  "brand": "Finalmouse",
+  "model": "Starlight-12",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "finalmouse-ultralight-2",
+  "brand": "Finalmouse",
+  "model": "Ultralight 2 Cape Town",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3360",
+   "dpi": 12000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "finalmouse-ulx-ultralight-x",
+  "brand": "Finalmouse",
+  "model": "ULX (Ultralight X)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "fnatic-bolt",
+  "brand": "Fnatic",
+  "model": "BOLT",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-fenrir-asym-8k",
+  "brand": "G-Wolves",
+  "model": "Fenrir Asym 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2LS-21",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-fenrir-max-8k",
+  "brand": "G-Wolves",
+  "model": "Fenrir Max 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-hati-s",
+  "brand": "G-Wolves",
+  "model": "Hati S",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Zippy",
+    "model": "DF3-P1L1",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-hati-r-8k",
+  "brand": "G-Wolves",
+  "model": "Hati-R 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-hati-r-pro-8k",
+  "brand": "G-Wolves",
+  "model": "Hati-R Pro 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-hsk-pro",
+  "brand": "G-Wolves",
+  "model": "HSK Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Zippy",
+    "model": "DF3-P1L1",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-htm-plus",
+  "brand": "G-Wolves",
+  "model": "HTM Plus",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (orange transparent shell and plunger) (80 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-htx",
+  "brand": "G-Wolves",
+  "model": "HTX",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Zippy",
+    "model": "DF3-P1L1",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-skoll-mini",
+  "brand": "G-Wolves",
+  "model": "Skoll Mini",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": 19000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "g-wolves-vuk",
+  "brand": "G-Wolves",
+  "model": "VUK",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (orange transparent shell and plunger) (80 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "gamesense-meta",
+  "brand": "Gamesense",
+  "model": "Meta",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "gamesense-mvp-wired",
+  "brand": "Gamesense",
+  "model": "MVP Wired",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "gamesense-mvp-wireless",
+  "brand": "Gamesense",
+  "model": "MVP Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 4.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "genesis-krypton-750",
+  "brand": "Genesis",
+  "model": "Krypton 750",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3333",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-model-d",
+  "brand": "Glorious",
+  "model": "Model D",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-model-d-2",
+  "brand": "Glorious",
+  "model": "Model D 2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Glorious",
+    "model": "Lynx Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F-Switch",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-model-i",
+  "brand": "Glorious",
+  "model": "Model I",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Glorious",
+    "model": "Switches",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-model-o",
+  "brand": "Glorious",
+  "model": "Model O",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-model-o-",
+  "brand": "Glorious",
+  "model": "Model O-",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3369",
+   "dpi": 12000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F-Switch",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "glorious-series-2-pro-wireless",
+  "brand": "Glorious",
+  "model": "Series 2 Pro Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "BAMF 2",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Glorious",
+    "model": "Optical Switches",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hitscan-hyperlight",
+  "brand": "Hitscan",
+  "model": "Hyperlight",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hk-gaming-mira-m",
+  "brand": "HK Gaming",
+  "model": "Mira-M",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hk-gaming-mira-s",
+  "brand": "HK Gaming",
+  "model": "Mira-S",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hk-gaming-naos-m",
+  "brand": "HK Gaming",
+  "model": "Naos-M",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hyperx-pulsefire-haste",
+  "brand": "HyperX",
+  "model": "Pulsefire Haste",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Golden Micro Dustproof",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "hyperx-pulsefire-haste-2",
+  "brand": "HyperX",
+  "model": "Pulsefire Haste 2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "HyperX 26K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "HyperX",
+    "model": "Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "incott-ghero-pro",
+  "brand": "Incott",
+  "model": "GHERO Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "incott-hpc01m-pro",
+  "brand": "Incott",
+  "model": "HPC01M Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Customizable",
+    "model": "Customizable",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "keychron-m3",
+  "brand": "Keychron",
+  "model": "M3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "keychron-m6",
+  "brand": "Keychron",
+  "model": "M6",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "lamzu-atlantis",
+  "brand": "Lamzu",
+  "model": "Atlantis",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "lamzu-atlantis-mini",
+  "brand": "Lamzu",
+  "model": "Atlantis Mini",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "lamzu-firm",
+  "brand": "Lamzu",
+  "model": "Firm",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "lamzu-inca",
+  "brand": "Lamzu",
+  "model": "Inca",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "lamzu-maya",
+  "brand": "Lamzu",
+  "model": "Maya",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "lamzu-thorn",
+  "brand": "Lamzu",
+  "model": "Thorn",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "RAESHA",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g-mx518",
+  "brand": "Logitech",
+  "model": "G MX518",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "HERO 16K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N 20M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-gpro-wireless",
+  "brand": "Logitech",
+  "model": "G Pro Wireless",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 16K",
+   "dpi": 16000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g-pro-x-superlight",
+  "brand": "Logitech",
+  "model": "G Pro X Superlight",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "HERO 2",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FH1",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-gpro-x-superlight-2",
+  "brand": "Logitech",
+  "model": "G Pro X Superlight 2",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 2",
+   "dpi": 32000
+  },
+  "switches": [
+   {
+    "brand": "Logitech",
+    "model": "Lightforce Hybrid",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g303-shroud",
+  "brand": "Logitech",
+  "model": "G303 Shroud Edition",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g305",
+  "brand": "Logitech",
+  "model": "G305 Lightspeed",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 12K",
+   "dpi": 12000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g403-hero",
+  "brand": "Logitech",
+  "model": "G403 Hero",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g403-wireless",
+  "brand": "Logitech",
+  "model": "G403 Wireless",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g502-hero",
+  "brand": "Logitech",
+  "model": "G502 Hero",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g502-x-wireless",
+  "brand": "Logitech",
+  "model": "G502 X Wireless",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Logitech",
+    "model": "Lightforce Hybrid",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g604",
+  "brand": "Logitech",
+  "model": "G604",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "HERO 16K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "logitech-g703-hero",
+  "brand": "Logitech",
+  "model": "G703 Hero",
+  "sensor": {
+   "brand": "Logitech",
+   "model": "Hero 25K",
+   "dpi": 25600
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "ltc-moshpit-whm-01",
+  "brand": "LTC",
+  "model": "MoshPit WHM-01",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mad-catz-m-o-j-o-m1",
+  "brand": "Mad Catz",
+  "model": "M.O.J.O. M1",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "DAKOTA",
+    "model": "DAKOTA (60 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mad-catz-r-a-t-8-adv",
+  "brand": "Mad Catz",
+  "model": "R.A.T. 8+ ADV",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Zippy",
+    "model": "Zippy",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mad-catz-r-a-t-dws",
+  "brand": "Mad Catz",
+  "model": "R.A.T. DWS",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Zippy",
+    "model": "Zippy (60 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mad-catz-r-a-t-pro-x3-supreme",
+  "brand": "Mad Catz",
+  "model": "R.A.T. Pro X3 Supreme",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "Omron (50M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "marsback-zephyr-pro",
+  "brand": "Marsback",
+  "model": "Zephyr Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mchose-a5-pro",
+  "brand": "Mchose",
+  "model": "A5 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Pink Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "mchose-a7-v2-ultra",
+  "brand": "MCHOSE",
+  "model": "A7 V2 Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mchose-ax5-pro-max",
+  "brand": "MCHOSE",
+  "model": "AX5 Pro Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mchose-l7-pro",
+  "brand": "MCHOSE",
+  "model": "L7 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mionix-avior-pro",
+  "brand": "Mionix",
+  "model": "Avior Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mionix-castor-pro",
+  "brand": "Mionix",
+  "model": "Castor Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mionix-naos-pro",
+  "brand": "Mionix",
+  "model": "Naos Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mountain-makalu-67",
+  "brand": "Mountain",
+  "model": "Makalu 67",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "mountain-makalu-max",
+  "brand": "Mountain",
+  "model": "Makalu Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm31-lightweight",
+  "brand": "MSI",
+  "model": "Clutch GM31 Lightweight",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm31-lightweight-wireless",
+  "brand": "MSI",
+  "model": "Clutch GM31 Lightweight Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3311",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm41-lightweight",
+  "brand": "MSI",
+  "model": "Clutch GM41 Lightweight",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm41-lightweight-wireless",
+  "brand": "MSI",
+  "model": "Clutch GM41 Lightweight Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm51-lightweight",
+  "brand": "MSI",
+  "model": "Clutch GM51 Lightweight",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "msi-clutch-gm51-lightweight-wireless",
+  "brand": "MSI",
+  "model": "Clutch GM51 Lightweight Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "CF",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "ninjutso-katana",
+  "brand": "Ninjutso",
+  "model": "Katana",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "nzxt-lift-2-ergo",
+  "brand": "NZXT",
+  "model": "Lift 2 Ergo",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "nzxt-lift-2-symm",
+  "brand": "NZXT",
+  "model": "Lift 2 Symm",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "nzxt-lift-elite-wireless",
+  "brand": "NZXT",
+  "model": "Lift Elite Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "orbital-works-pathfinder",
+  "brand": "Orbital Works",
+  "model": "Pathfinder",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "phylina-s480-max",
+  "brand": "Phylina",
+  "model": "S480 Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "ploopy-mouse",
+  "brand": "Ploopy",
+  "model": "Mouse",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2LS-21",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "powercolor-alphyn-am10",
+  "brand": "PowerColor",
+  "model": "ALPHYN AM10",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-feinmann-f01",
+  "brand": "Pulsar",
+  "model": "Feinmann F01",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GO Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-susanto-x-medium",
+  "brand": "Pulsar",
+  "model": "Susanto-X (Medium)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Pulsar",
+    "model": "Pulsar",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-tenz-signature-edition",
+  "brand": "Pulsar",
+  "model": "TenZ Signature Edition",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "FE",
+    "model": "Switches",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-x2",
+  "brand": "Pulsar",
+  "model": "X2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-x2-mini",
+  "brand": "Pulsar",
+  "model": "X2 Mini",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-x2h",
+  "brand": "Pulsar",
+  "model": "X2H",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "RAESHA",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-x2h-mini",
+  "brand": "Pulsar",
+  "model": "X2H Mini",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-x2v2",
+  "brand": "Pulsar",
+  "model": "X2V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-xlite-v2",
+  "brand": "Pulsar",
+  "model": "Xlite V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-xlite-v3",
+  "brand": "Pulsar",
+  "model": "Xlite V3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "RAESHA",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-xlite-wireless",
+  "brand": "Pulsar",
+  "model": "Xlite Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-xlite-wireless-v2",
+  "brand": "Pulsar",
+  "model": "Xlite Wireless V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pulsar-zywoo-the-chosen-mouse-medium",
+  "brand": "Pulsar",
+  "model": "ZywOo The Chosen Mouse (Medium)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (blue transparent shell/pink plunger)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pwnage-stormbreaker",
+  "brand": "Pwnage",
+  "model": "StormBreaker",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pwnage-stormbreaker-max-cf",
+  "brand": "Pwnage",
+  "model": "StormBreaker Max CF",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "pwnage-trinity-cf",
+  "brand": "Pwnage",
+  "model": "Trinity CF",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rapoo-vt2-max",
+  "brand": "Rapoo",
+  "model": "VT2 Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Rapoo",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rapoo-vt3pro-max",
+  "brand": "Rapoo",
+  "model": "VT3Pro Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rapoo-vt7-max",
+  "brand": "Rapoo",
+  "model": "VT7 Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Rapoo",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rapoo-vt9-air",
+  "brand": "Rapoo",
+  "model": "VT9 Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rawm-es21m",
+  "brand": "RAWM",
+  "model": "ES21M",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "green",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rawm-leviathan-v4",
+  "brand": "RAWM",
+  "model": "Leviathan V4",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "RAESHA",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "rawm-sh01-pro",
+  "brand": "RAWM",
+  "model": "SH01 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "green",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-basilisk-v3",
+  "brand": "Razer",
+  "model": "Basilisk V3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3369",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Mechanical Mouse Switches Gen-2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-basilisk-v3-pro",
+  "brand": "Razer",
+  "model": "Basilisk V3 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "razer-cobra-hyperspeed",
+  "brand": "Razer",
+  "model": "Cobra Hyperspeed",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3349",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-cobra-pro",
+  "brand": "Razer",
+  "model": "Cobra Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-deathadder-v2",
+  "brand": "Razer",
+  "model": "DeathAdder V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3399",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-deathadder-v3-hyperspeed",
+  "brand": "Razer",
+  "model": "DeathAdder V3 Hyperspeed",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-deathadder-v3-pro",
+  "brand": "Razer",
+  "model": "DeathAdder V3 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "RAESHA",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-deathadder-v4-pro",
+  "brand": "Razer",
+  "model": "DeathAdder V4 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 45K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-4",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "razer-naga-v2-hyperspeed",
+  "brand": "Razer",
+  "model": "Naga V2 Hyperspeed",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Mechanical Switches Gen-2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "razer-naga-v2-pro",
+  "brand": "Razer",
+  "model": "Naga V2 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-orochi-v2",
+  "brand": "Razer",
+  "model": "Orochi V2",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3369",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Mechanical",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-8khz",
+  "brand": "Razer",
+  "model": "Viper 8kHz",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3399",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-mini",
+  "brand": "Razer",
+  "model": "Viper Mini",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3359",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-ultimate",
+  "brand": "Razer",
+  "model": "Viper Ultimate",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3399",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-v2-pro",
+  "brand": "Razer",
+  "model": "Viper V2 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Gen 3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-v3-hyperspeed",
+  "brand": "Razer",
+  "model": "Viper V3 Hyperspeed",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 30K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Mechanical Mouse Switches Gen-2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "razer-viper-v3-pro",
+  "brand": "Razer",
+  "model": "Viper V3 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "Pro 35K",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Razer",
+    "model": "Optical Mouse Switches Gen-3",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-cobra-m711-fps",
+  "brand": "Redragon",
+  "model": "Cobra M711 FPS",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "LK",
+    "model": "optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-k1ng-4k-pro",
+  "brand": "Redragon",
+  "model": "K1NG 4K Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-k1ng-8k",
+  "brand": "Redragon",
+  "model": "K1NG 8K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-k1ng-ultra",
+  "brand": "Redragon",
+  "model": "K1NG Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-m686-vampire-elite",
+  "brand": "Redragon",
+  "model": "M686 Vampire Elite",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-m690",
+  "brand": "Redragon",
+  "model": "M690 Impact Elite",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": 12400
+  },
+  "switches": [
+   {
+    "brand": "Redragon",
+    "model": "Red Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "redragon-m711-cobra",
+  "brand": "Redragon",
+  "model": "M711 Cobra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": 12400
+  },
+  "switches": [
+   {
+    "brand": "Redragon",
+    "model": "Blue Switch",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": null
+ },
+ {
+  "id": "redragon-m808-storm",
+  "brand": "Redragon",
+  "model": "M808 Storm",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-m808-storm-pro",
+  "brand": "Redragon",
+  "model": "M808 Storm Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Hunao",
+    "model": "Blue",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-m913-impact-elite",
+  "brand": "Redragon",
+  "model": "M913 Impact Elite",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "redragon-m991-enlightenment",
+  "brand": "Redragon",
+  "model": "M991 Enlightenment",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (Blue)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-burst-core",
+  "brand": "Roccat",
+  "model": "Burst Core",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3331",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Roccat",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-burst-pro-air",
+  "brand": "Roccat",
+  "model": "Burst Pro Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Roccat",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kain-100-aimo",
+  "brand": "Roccat",
+  "model": "Kain 100 AIMO",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3331",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kain-200-aimo",
+  "brand": "Roccat",
+  "model": "Kain 200 AIMO",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kain-202",
+  "brand": "Roccat",
+  "model": "Kain 202 Aimo",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": 16000
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kone-pro-air",
+  "brand": "Roccat",
+  "model": "Kone Pro Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Roccat",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kone-pure-ultra",
+  "brand": "Roccat",
+  "model": "Kone Pure Ultra",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "RT",
+    "model": "Omron",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kone-xp",
+  "brand": "Roccat",
+  "model": "Kone XP",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Roccat",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kone-xp-air",
+  "brand": "Roccat",
+  "model": "Kone XP Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Roccat",
+    "model": "Optical",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "roccat-kova-aimo",
+  "brand": "Roccat",
+  "model": "Kova AIMO",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "R6",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N RT",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "scyrox-v6",
+  "brand": "SCYROX",
+  "model": "V6",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "scyrox-v8",
+  "brand": "Scyrox",
+  "model": "V8",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "sharkoon-light-100",
+  "brand": "Sharkoon",
+  "model": "Light² 100",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3325",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "sharkoon-light-180",
+  "brand": "Sharkoon",
+  "model": "Light² 180",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "sharkoon-light-200",
+  "brand": "Sharkoon",
+  "model": "Light² 200",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "sharkoon-light-s",
+  "brand": "Sharkoon",
+  "model": "Light² S",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3327",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "sharkoon-skiller-sgm70w",
+  "brand": "Sharkoon",
+  "model": "SKILLER SGM70W",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "green",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "spc-gear-gem-plus",
+  "brand": "SPC Gear",
+  "model": "GEM Plus",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "spc-gear-lix-plus",
+  "brand": "SPC Gear",
+  "model": "LIX Plus",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "spc-gear-lix-plus-wireless",
+  "brand": "SPC Gear",
+  "model": "LIX Plus Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-aerox-3",
+  "brand": "SteelSeries",
+  "model": "Aerox 3",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Golden Micro Dustproof",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-aerox-5",
+  "brand": "SteelSeries",
+  "model": "Aerox 5",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Golden Micro Dustproof",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-aerox-9-wireless",
+  "brand": "SteelSeries",
+  "model": "Aerox 9 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Golden Micro Dustproof",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-prime-mini-wireless",
+  "brand": "SteelSeries",
+  "model": "Prime Mini Wireless",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "SteelSeries",
+    "model": "Prestige OM",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-prime-wireless",
+  "brand": "SteelSeries",
+  "model": "Prime Wireless",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "SteelSeries",
+    "model": "Prestige OM",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-rival-3",
+  "brand": "SteelSeries",
+  "model": "Rival 3",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "SteelSeries",
+    "model": "SteelSeries",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-rival-5",
+  "brand": "SteelSeries",
+  "model": "Rival 5",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Golden Micro Dustproof",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "steelseries-sensei-ten",
+  "brand": "SteelSeries",
+  "model": "Sensei Ten",
+  "sensor": null,
+  "switches": [
+   {
+    "brand": "SteelSeries",
+    "model": "SteelSeries (60 million)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "tecware-impulse-pro",
+  "brand": "Tecware",
+  "model": "Impulse Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "20M",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "teevolution-terra-pro",
+  "brand": "Teevolution",
+  "model": "Terra Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "FE",
+    "model": "Switches",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "thermaltake-argent-m5-rgb",
+  "brand": "Thermaltake",
+  "model": "ARGENT M5 RGB",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "thermaltake-argent-m5-wireless-rgb",
+  "brand": "Thermaltake",
+  "model": "ARGENT M5 Wireless RGB",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "thunderobot-ml903-nearlink",
+  "brand": "ThundeRobot",
+  "model": "ML903 NearLink",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "transparent",
+    "model": "white shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "turtle-beach-burst-ii-air",
+  "brand": "Turtle Beach",
+  "model": "Burst II Air",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Titan",
+    "model": "Optical Switch",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "turtle-beach-burst-ii-pro",
+  "brand": "Turtle Beach",
+  "model": "Burst II Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Titan",
+    "model": "Optical Switch",
+    "type": "optical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "vaxee-e1-wireless-4k",
+  "brand": "Vaxee",
+  "model": "E1 Wireless (4K)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (blue plunger)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "vaxee-np-01",
+  "brand": "Vaxee",
+  "model": "NP-01",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (10 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "vaxee-outset-ax",
+  "brand": "Vaxee",
+  "model": "Outset AX",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (10M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "vaxee-xe",
+  "brand": "Vaxee",
+  "model": "XE",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "vgn-dragonfly-f1-pro-max",
+  "brand": "VGN",
+  "model": "Dragonfly F1 Pro Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "victsing-mm057",
+  "brand": "VicTsing",
+  "model": "MM057",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3212",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "million",
+    "model": "click-rated",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "vxe-r1-pro",
+  "brand": "VXE",
+  "model": "R1 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Pink Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "waizowl-ogm-cloud",
+  "brand": "Waizowl",
+  "model": "OGM Cloud",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "waizowl-ogm-pro",
+  "brand": "Waizowl",
+  "model": "OGM Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Gold",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "wlmouse-beast-x",
+  "brand": "WLMouse",
+  "model": "Beast X",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "wlmouse-sword-x",
+  "brand": "WLMouse",
+  "model": "Sword X",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": 26000
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xpg-alpha",
+  "brand": "XPG",
+  "model": "Alpha",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xpg-alpha-wireless",
+  "brand": "XPG",
+  "model": "Alpha Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3335",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Kailh",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xpg-primer",
+  "brand": "XPG",
+  "model": "PRIMER",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xpg-slingshot",
+  "brand": "XPG",
+  "model": "Slingshot",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "Kailh (20 M)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-m4",
+  "brand": "Xtrfy",
+  "model": "M4",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "xtrfy-m4-wireless",
+  "brand": "Xtrfy",
+  "model": "M4 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-m42",
+  "brand": "Xtrfy",
+  "model": "M42",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-7N",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-m42-wireless",
+  "brand": "Xtrfy",
+  "model": "M42 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-m8-wireless",
+  "brand": "Xtrfy",
+  "model": "M8 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-mz1",
+  "brand": "Xtrfy",
+  "model": "MZ1",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "xtrfy-mz1-wireless",
+  "brand": "Xtrfy",
+  "model": "MZ1 Wireless",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Kailh",
+    "model": "GM 8.0",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zaopin-z1-pro",
+  "brand": "Zaopin",
+  "model": "Z1 Pro",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "blue",
+    "model": "shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zaopin-z2-4k",
+  "brand": "Zaopin",
+  "model": "Z2 (4K)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "TTC",
+    "model": "Gold",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zaopin-z2-mini-4k",
+  "brand": "Zaopin",
+  "model": "Z2 Mini (4K)",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3395",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "green",
+    "model": "transparent shell",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "F",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zaopin-zpw-max",
+  "brand": "Zaopin",
+  "model": "ZPW Max",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3950",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FP-FN2",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "TTC",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zaunkoenig-m2k",
+  "brand": "Zaunkoenig",
+  "model": "M2K",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2F-01F",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "ALPS",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zephyr-gaming-mouse",
+  "brand": "Zephyr",
+  "model": "Gaming Mouse",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3389",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Omron",
+    "model": "D2FC-F-K",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "mechanical"
+  }
+ },
+ {
+  "id": "zowie-benq-s2-black",
+  "brand": "Zowie",
+  "model": "BenQ S2 Black",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano (Blue, dot)",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "zowie-ec2-c",
+  "brand": "Zowie",
+  "model": "EC2-C",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3360",
+   "dpi": 12000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Blue Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "zowie-ec2-cw",
+  "brand": "Zowie",
+  "model": "EC2-CW",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3370",
+   "dpi": 19000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Blue Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "zowie-ec3-c",
+  "brand": "Zowie",
+  "model": "EC3-C",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PMW3360",
+   "dpi": null
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Huano",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Unknown",
+   "type": "optical"
+  }
+ },
+ {
+  "id": "zowie-fk2-c",
+  "brand": "Zowie",
+  "model": "FK2-C",
+  "sensor": {
+   "brand": "PixArt",
+   "model": "PAW3360",
+   "dpi": 12000
+  },
+  "switches": [
+   {
+    "brand": "Huano",
+    "model": "Blue Shell Blue Dot",
+    "type": "mechanical"
+   }
+  ],
+  "encoder": {
+   "brand": "Alps",
+   "type": "optical"
+  }
+ }
+]

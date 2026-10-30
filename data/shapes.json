@@ -1,0 +1,6 @@
+{
+  "_note": "Approximate manufacturer dimensions in mm (length x width x height). Verify before relying on them. Mice not listed here use a generic shape.",
+  "logitech-gpro-x-superlight-2": { "length": 125, "width": 63.5, "height": 40, "hump": 0.4, "approx": true },
+  "razer-deathadder-v3-pro": { "length": 128, "width": 68, "height": 44, "hump": 0.32, "approx": true },
+  "razer-viper-v3-pro": { "length": 127.1, "width": 63.9, "height": 39.9, "hump": 0.45, "approx": true }
+}
